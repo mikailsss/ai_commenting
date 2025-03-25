@@ -1,5 +1,5 @@
 from openai import OpenAI
-api_key = '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'# апи кей можете юзать, он мне не нужен
+api_key = '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'# апи кей можете юзать, он мне не нужен
 from config import prompt
 
 
